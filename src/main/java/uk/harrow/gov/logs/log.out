@@ -1,0 +1,4 @@
+2020-04-19 18:04:431 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-19 18:04:231 INFO  HomePage :25 - Clicking On Covid19 Link[[ChromeDriver: chrome on WINDOWS (b26d60c75a5648765dbe564372f1dee5)] -> xpath: //span[contains(text(),'Coronavirus (COVID-19)')]]
+2020-04-19 18:04:35 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-19 18:04:958 INFO  HomePage :25 - Clicking On Covid19 Link[[ChromeDriver: chrome on WINDOWS (e5c5222a329d5388b62ea54433ad7ac8)] -> xpath: //span[contains(text(),'Coronavirus (COVID-19)')]]
